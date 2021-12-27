@@ -6,6 +6,7 @@
 *.swp
 *~
 temporary/
+__pycache__/
 
 # data
 dataset/
