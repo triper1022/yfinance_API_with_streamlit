@@ -1,0 +1,14 @@
+# ide
+.idea/
+*.iml
+
+# tmp data
+*.swp
+*~
+temporary/
+
+# data
+dataset/
+output/
+models/
+
